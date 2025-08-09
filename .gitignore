@@ -1,0 +1,9 @@
+# Archivos sensibles y secretos
+.env
+
+# Carpeta de entorno virtual
+venv/
+
+# Carpeta de logs y cachés
+__pycache__/
+*.pyc
